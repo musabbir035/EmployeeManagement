@@ -65,7 +65,7 @@
                 <a :href="'tel:' + row.item.phone">{{ row.item.phone }}</a>
               </template>
               <template #cell(email)="row">
-                <a :href="'mailto:' + row.item.email">{{ row.item.name }}</a>
+                <a :href="'mailto:' + row.item.email">{{ row.item.email }}</a>
               </template>
               <template #cell(actions)="row">
                 <b-button
