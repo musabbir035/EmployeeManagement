@@ -1,5 +1,7 @@
 ## Setup
 
+Create a new .env file. Copy contents of .env.example to the new .env file.
+
 Migrate and seed database
 
 ```
