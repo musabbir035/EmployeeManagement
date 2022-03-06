@@ -12,7 +12,7 @@ composer install
 npm install & npm run dev
 ```
 
-Migrate and seed database
+Create a MySQL database named 'employee_management', then migrate and seed the database
 
 ```
 php artisan migrate --seed
