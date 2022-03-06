@@ -9,7 +9,11 @@ composer install
 ```
 
 ```
-npm install & npm run dev
+npm install
+```
+
+```
+npm run dev
 ```
 
 Create a MySQL database named 'employee_management', then migrate and seed the database
